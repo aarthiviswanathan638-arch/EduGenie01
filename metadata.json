@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie - AI Personalized Learning Assistant",
+  "description": "Intelligent, friendly, and adaptive learning companion powered by Google Gemini. Master concepts across 12 learning modes including interactive quizzes, step-by-step guidance, flashcards, and personalized study plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
